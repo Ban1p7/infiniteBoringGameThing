@@ -22,7 +22,7 @@
    Programmer: me<br>
    Music composer: me<br>
    Sound effects (They're actually good I just didn't use them well): <a href="https://kenney.nl/">kenney.nl</a><br>
-   Font: <a href="https://fonts.google.com/specimen/Roboto?category=Sans+Serif">Roboto</a>
+   Font: <a href="https://fonts.google.com/specimen/Roboto?category=Sans+Serif">Roboto</a><br>
 <br>
 <strong>Licence: GPL License:</strong><br>
 <br>
