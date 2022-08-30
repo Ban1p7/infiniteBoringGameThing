@@ -1,6 +1,6 @@
 <h1>Infinite Boring Game Thing</h1>
 
-<h3>This is a 3d infinite game where you use the arrow keys to dodge bad things and get good things. I'd say about 25% of mobile games are variants of this exact same concept, but luckily, this isn't those games. This was 100% made by me. Even the images. They weren't going to be, but then I realised my phone has a camera, so...</h3>
+<h3>This is a 3d infinite game where you use the arrow keys to dodge bad things and get good things. I'd say about 25% of mobile games are variants of this exact same concept, but luckily, this isn't those games. This was 100% made by me. Except the sound effects and font</h3>
 <h6>I used three.js to make this project, which I found was incredibly easy to use. I hope to add more textures to things in the future, now that I've found a good stackoverflow page-- I mean figured out how to do that.</h6>
 <br>
 <strong>How to install and run this project:</strong><br>
@@ -22,6 +22,7 @@
    Programmer: me<br>
    Music composer: me<br>
    Sound effects (They're actually good I just didn't use them well): <a href="https://kenney.nl/">kenney.nl</a><br>
+   Font: <a href="https://fonts.google.com/specimen/Roboto?category=Sans+Serif">Roboto</a>
 <br>
 <strong>Licence: GPL License:</strong><br>
 <br>
